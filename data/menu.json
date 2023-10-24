@@ -16,6 +16,11 @@
             "data": "https://benzac-de.github.io/msx/data/base/videos.json"
         },
         {
+            "icon": "movie",
+            "label": "TV",
+            "data": "https://benzac-de.github.io/msx/data/base/TV.json"
+        },
+        {
             "icon": "music-note",
             "label": "Audios",
             "data": "https://benzac-de.github.io/msx/data/base/audios.json"
